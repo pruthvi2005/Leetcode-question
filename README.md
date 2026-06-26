@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1193-monthly-transactions-i) |
 | [1683-invalid-tweets](https://github.com/pruthvi2005/Leetcode-question/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pruthvi2005/Leetcode-question/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pruthvi2005/Leetcode-question/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
