@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/pruthvi2005/Leetcode-question/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/pruthvi2005/Leetcode-question/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1148-article-views-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/pruthvi2005/Leetcode-question/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1193-monthly-transactions-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/pruthvi2005/Leetcode-question/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/pruthvi2005/Leetcode-question/tree/master/1484-group-sold-products-by-the-date) |
