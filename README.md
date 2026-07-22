@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/pruthvi2005/Leetcode-question/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/pruthvi2005/Leetcode-question/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/pruthvi2005/Leetcode-question/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/pruthvi2005/Leetcode-question/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1193-monthly-transactions-i) |
