@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/pruthvi2005/Leetcode-question/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/pruthvi2005/Leetcode-question/tree/master/1193-monthly-transactions-i) |
+| [1211-queries-quality-and-percentage](https://github.com/pruthvi2005/Leetcode-question/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/pruthvi2005/Leetcode-question/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/pruthvi2005/Leetcode-question/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/pruthvi2005/Leetcode-question/tree/master/1327-list-the-products-ordered-in-a-period) |
